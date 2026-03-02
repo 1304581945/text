@@ -483,6 +483,21 @@ export const ARTICLE_DATA = [
     }
   },
   {
+    id: 'a31',
+    common: {
+      category: ArticleCategory.DIT,
+      link: 'https://mp.weixin.qq.com/s/_uRBGaAHK-zOZ5qnCW7vPQ',
+      coverImage: 'https://mmbiz.qpic.cn/mmbiz_png/MlWt1JT1F3KuWPSuBLOTuILZY4CVkWibcY2I7bFMU7JJRibNljTMc6uHbSjzQoRBPia9UibwLN4vnUoSfVMgI3p3yhn0icMcc7kfHibB5sGLSVyLg/640?wx_fmt=png&amp;from=appmsg#imgIndex=0',
+      date: '2026-03-02'
+    },
+    zh: {
+      title: '个人周报 | 26/02/23~26/03/01',
+    },
+    en: {
+      title: 'Weekly Report | 26/02/23~26/03/01',
+    }
+  },
+  {
     id: 'l1',
     common: {
       category: ArticleCategory.LUNA,
